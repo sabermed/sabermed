@@ -6,19 +6,29 @@ I'm a Full Stack Developer with expertise in crafting high-performance UIs and s
 
 ## 🔧 Technologies & Tools
 
-**Frontend:**
-- React.js | React Native | Vue.js | TypeScript | Redux | Vuex | Vuetify
-- HTML5 | CSS3 | SCSS | Tailwind CSS | Bootstrap | D3.js | Chart.js | IFC.js | Three.js
+### **Frontend:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend:**
-- Node.js | Express.js | Nest.js | Django | Python
-- REST APIs | WebSockets | Socket.io | OAuth 2.0
+### **Backend:**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
-**Databases:**
-- MongoDB | MySQL | PostgreSQL | SQL
+### **Databases:**
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**DevOps & Tools:**
-- Docker | Nginx | AWS Lambda | S3 | Google Cloud Storage | Git | Jira | Webpack | Babel | Figma
+### **DevOps & Tools:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## 📌 Projects & Contributions
 Here are some of my notable projects:
@@ -31,8 +41,8 @@ Here are some of my notable projects:
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/sabermed)
-- 📝 [Portfolio](#) *(Coming Soon!)*
-- ✉️ Email: [sabermed66@gmail.com](mailto:sabermed66@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sabermed)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabermed)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sabermed66@gmail.com)
 
 Let's build something amazing together! 🚀

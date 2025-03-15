@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | Passionate about Building Scalable & High-Performance Applications
 
-I'm a Full Stack Developer with expertise in crafting high-performance UIs and scalable APIs. I enjoy solving complex technical challenges with clean, efficient, and maintainable code. Currently, I'm open to exciting opportunities in Europe!
+I'm a Full Stack Developer with expertise in crafting high-performance UIs and scalable APIs. I enjoy solving complex technical challenges with clean, efficient, and maintainable code.
 
 ## 🔧 Technologies & Tools
 
